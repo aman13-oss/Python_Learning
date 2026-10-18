@@ -2,24 +2,6 @@
 
 This repository contains my Python learning journey, practice questions, and coding exercises.
 
-## 📂 Repository Structure
-
-```text
-Python_Learning/
-│
-├── Practise_Question/
-│   └── Basic Python practice questions
-│
-├── Random_Question/
-│   ├── practise_set_1/
-│   ├── Practise_set_2/
-│   ├── practise_set_3/
-│   └── Practise_set_4/
-│
-├── Python_Practise.ipynb
-│
-└── readme.md
-```
 
 ## 🎯 Goals
 
