@@ -1,2 +1,0 @@
-Count Lines in a File : 
- count and print the total number 

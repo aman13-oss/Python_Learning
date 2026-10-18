@@ -1,2 +1,0 @@
-Python is easy to learn: 
-File handling is an important concept: 
