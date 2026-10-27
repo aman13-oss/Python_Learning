@@ -6,7 +6,7 @@ This repository contains my Python learning journey, practice questions, and cod
 ## 🎯 Goals
 
 * Learn Python from basics to advanced concepts
-* Practice Python regularly
+* Practice Python questions  regularly
 * Improve problem-solving and logical thinking
 * Build a strong foundation for Data Science and Machine Learning
 
